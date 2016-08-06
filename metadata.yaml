@@ -1,0 +1,45 @@
+_repo: The-Wits-and-Beaux-of-SocietyVolume-2_10797
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Wharton, Philip
+    aliases:
+    - Splene, Megathym
+    - Thomson, J. Cockburn (John Cockburn)
+    - Thomson, John Cockburn
+    birthdate: 1834
+    deathdate: 1860
+    gutenberg_agent_id: '4635'
+    url: http://www.gutenberg.org/2009/agents/4635
+  - agent_name: Thomson, A. T., Mrs.
+    aliases:
+    - Wharton, Grace
+    - Thomson, M. A., Mrs.
+    - Thomson, Katherine Byerley
+    birthdate: 1797
+    deathdate: 1862
+    gutenberg_agent_id: '9623'
+    url: http://www.gutenberg.org/2009/agents/9623
+description: v. 1. George Villiers, second Duke of Buckingham. Count De Grammont,
+  St. Evremond and Lord Rochester. Beau Fielding. Of certain clubs and club-wits under
+  Anne. William Congreve. Beau Nash.--Phillip, Duke of Wharton. Lord Hervey. Philip
+  Dormer Stanhope, fourth Earl of Chesterfield. The Abbé Scarron.--v. 2. Francois,
+  Duc de la Rochefoucault and the Duc de Saint-Simon. Horace Walpole. George Selwyn.
+  Richard Brinsley Sheridan. Beau Brummell. Theodore Edward Hook. Sydney Smith. George
+  Bubb Dodington, Lord Melcombe.
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10797'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social life and customs -- 18th century'
+- !lcsh 'Great Britain -- Court and courtiers -- History -- 18th century'
+- !lcc 'DA'
+- !lcsh 'Socialites -- Great Britain -- History -- 18th century'
+- GITenberg
+title: The Wits and Beaux of Society. Volume 2
+url: http://www.gutenberg.org/ebooks/10797
