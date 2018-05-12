@@ -1,5 +1,8 @@
 _repo: The-Wits-and-Beaux-of-SocietyVolume-2_10797
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Wharton, Philip
@@ -27,6 +30,8 @@ description: v. 1. George Villiers, second Duke of Buckingham. Count De Grammont
   Duc de la Rochefoucault and the Duc de Saint-Simon. Horace Walpole. George Selwyn.
   Richard Brinsley Sheridan. Beau Brummell. Theodore Edward Hook. Sydney Smith. George
   Bubb Dodington, Lord Melcombe.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10797#The-Wits-and-Beaux-of-SocietyVolume-2
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
